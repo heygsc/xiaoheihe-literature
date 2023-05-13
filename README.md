@@ -6,6 +6,14 @@
 
 不过，生活比电影更精彩。
 
+---
+## [黑盒圣经web项目](https://github.com/gubei404/xiaoheihe-literature)
+### web地址 [heihe.beee.top](https://heihe.beee.top)
+此仓库可以自行提交pr自动部署,也可以通过邮件,收集表,小黑盒等进行投稿
+(web项目是经同意在北京时间2023年5月12日晚上进行fork在创作的)
+---
+
+
 ## 先讲讲黑盒圣经的由来🚀
 
 有许多的传说。
