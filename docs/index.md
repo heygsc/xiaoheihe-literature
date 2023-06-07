@@ -6,7 +6,7 @@
 
 不过，生活比电影更精彩。
 
-## 阅读指南🧭
+## 阅读指南 🧭
 
 ## 点击链接即可访问：[黑盒圣经](https://heygsc.github.io/)
 
@@ -14,9 +14,9 @@
 
 之后的典藏，将根据年份和月份用文件夹分类。
 
-为了不迷路，欢迎来[仓库](https://github.com/heygsc/xiaoheihe-literature)点点 star⭐
+## 为了不迷路，欢迎来[仓库](https://github.com/heygsc/xiaoheihe-literature)点点 star⭐
 
-## 讲讲黑盒圣经的由来🚀
+## 讲讲黑盒圣经的由来 🚀
 
 有许多的传说。
 
@@ -27,7 +27,7 @@
 
 大家看故事，请摆平心态，请勿随意嘲笑他人。人们常说：“初闻不识图中意，再见已是图中人。”
 
-## 投稿方式🎨
+## 投稿方式 🎨
 
 1.在小黑盒@我，[特别橙的橙汁](https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=102997927)
 
@@ -39,12 +39,12 @@
 
 所有素材均来源于互联网，仅供学习用途。如果因为涉及隐私等等，让你觉得不舒服，请联系我们删除。
 
-### 提交pr指南
+### 提交 pr 指南
 
-本仓库使用了mkdocs框架，只需要在docs中的对应文件夹中，添加图片并且命名，然后在同一文件夹添加md文档。
+本仓库使用了 mkdocs 框架，只需要在 docs 中的对应文件夹中，添加图片并且命名，然后在同一文件夹添加 md 文档。
 
-然后在mkdocs.yml中，更改目录。
+然后在 mkdocs.yml 中，更改目录。
 
-网站的原理是改好以上内容之后，在这个仓库中mkdocs build生成site，然后将site中的文件复制到[网站仓库](https://github.com/heygsc/heygsc.github.io)，即可更新。
+网站的原理是改好以上内容之后，在这个仓库中 mkdocs build 生成 site，然后将 site 中的文件复制到[网站仓库](https://github.com/heygsc/heygsc.github.io)，即可更新。
 
-## 最后，感谢所有故事的主人公、投稿的朋友、喜欢看黑盒圣经的朋友、以及在仓库提过issue/pr等等的所有人🎉🎉🎉🎉🎉
+## 最后，感谢所有故事的主人公、投稿的朋友、喜欢看黑盒圣经的朋友、以及在仓库提过 issue/pr 等等的所有人 🎉🎉🎉🎉🎉
