@@ -6,7 +6,11 @@
 
 不过，生活比电影更精彩。
 
-## 阅读指南 🧭
+## 为了不迷路，欢迎来[仓库](https://github.com/heygsc/xiaoheihe-literature)点点 star⭐
+
+---
+
+## 一、阅读指南 🧭
 
 ## 点击链接即可访问：[黑盒圣经](https://heygsc.github.io/)
 
@@ -14,9 +18,7 @@
 
 之后的典藏，将根据年份和月份用文件夹分类。
 
-## 为了不迷路，欢迎来[仓库](https://github.com/heygsc/xiaoheihe-literature)点点 star⭐
-
-## 讲讲黑盒圣经的由来 🚀
+## 二、讲讲黑盒圣经的由来 🚀
 
 有许多的传说。
 
@@ -27,7 +29,7 @@
 
 大家看故事，请摆平心态，请勿随意嘲笑他人。人们常说：“初闻不识图中意，再见已是图中人。”
 
-## 投稿方式 🎨
+## 三、投稿方式 🎨
 
 1.在小黑盒@我，[特别橙的橙汁](https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=102997927)
 
