@@ -35,9 +35,7 @@
 
 1.在小黑盒@我，[特别橙的橙汁](https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=102997927)
 
-2.本人 qq1596920983，联系我投稿
-
-3.你恰好有计算机领域的知识，比如简单的 git，欢迎提交 issue/pr
+2.你恰好有计算机领域的知识，比如简单的 git，欢迎提交 issue/pr
 
 投稿时，如果原帖的链接还可以访问，建议投稿者提供链接。或者在提交图片时，在 commit message 中添加原帖子链接。
 
