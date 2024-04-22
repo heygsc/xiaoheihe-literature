@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a4 as r}from"./chunks/framework.BS0dEra9.js";const m=JSON.parse('{"title":"xiaoheihe-literature","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),i={name:"README.md"},o=r("",9),h=[o];function n(l,p,s,d,c,_){return t(),a("div",null,h)}const x=e(i,[["render",n]]);export{m as __pageData,x as default};
