@@ -23,3 +23,4 @@ pnpm run docs:dev
 最后 pnpm run docs:build
 
 ### 欢迎star⭐
+### 欢迎关注[作者](github.com/heygsc)
