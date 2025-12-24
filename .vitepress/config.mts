@@ -1,6 +1,16 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  head:[
+    [
+      'script',
+      {
+        defer: '',
+        src: 'https://static.cloudflareinsights.com/beacon.min.js',
+        'data-cf-beacon': `{"token":"${process.env.CF_ANALYTICS_TOKEN}"}`
+      }
+    ]
+  ],
   title: "黑盒圣经&皮特弹幕",
   description: "desc",
   themeConfig: {
