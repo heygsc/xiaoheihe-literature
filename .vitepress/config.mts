@@ -11,7 +11,7 @@ export default defineConfig({
       }
     ]
   ],
-  title: "黑盒圣经&皮特弹幕",
+  title: "黑盒圣经",
   description: "desc",
   themeConfig: {
     search: {
@@ -19,8 +19,7 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: '黑盒圣经', link: '/黑盒圣经/index' },
-      { text: '皮特弹幕', link: '/pite/index'}
+      { text: '黑盒圣经', link: '/黑盒圣经/index' }
     ],
 
     sidebar: [
@@ -222,15 +221,7 @@ export default defineConfig({
             ]   
           },
         ]
-      },
-
-      { 
-        text: '皮特弹幕',
-        collapsed: true,
-        items: [
-          { text: '皮特弹幕', link: '/pite/index' },
-        ]
-      },
+      }
     ],
 
     socialLinks: [
