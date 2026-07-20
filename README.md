@@ -22,15 +22,3 @@ pnpm run docs:dev
 
 ### 欢迎star⭐
 ### 欢迎关注[作者](https://github.com/heygsc)
-
-<hr/>
-
-### Star History
-
-<a href="https://www.star-history.com/?repos=heygsc%2Fxiaoheihe-literature&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=heygsc/xiaoheihe-literature&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=heygsc/xiaoheihe-literature&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=heygsc/xiaoheihe-literature&type=date&legend=top-left" />
- </picture>
-</a>
